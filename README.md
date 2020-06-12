@@ -90,8 +90,7 @@ Got 591 / 3333 correct =\> accuracy: 0.177318
 
 ~~~
 
-![](media/image1.png){width="6.222222222222222in"
-height="3.829861111111111in"}
+<img src="media/image1.png" width="2000" height="500">
 
 ### Accordingly, the best-chosen **k = 15**
 
